@@ -1,0 +1,6 @@
+{
+	"package-name": "aldryn-segment",
+	"installed-apps": [
+		"aldryn_segment"
+	]
+}
